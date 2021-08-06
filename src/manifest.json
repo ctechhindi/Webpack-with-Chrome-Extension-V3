@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension with Vue & Webpack",
+  "name": "Chrome Extension with Webpack",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },
   "action": {
