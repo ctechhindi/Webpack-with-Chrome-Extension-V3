@@ -1,0 +1,10 @@
+body {
+  background-color: aliceblue;
+}
+
+#popup {
+  height: 300px;
+  width: 400px;
+  text-align: center;
+  padding-top: 25px;
+}
